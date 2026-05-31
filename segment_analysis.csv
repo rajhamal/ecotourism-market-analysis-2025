@@ -1,0 +1,25 @@
+ By Traveler Type ,,,
+Segment,Market_Share_%,Growth_Trend,Profile
+Group,81,Stable leader,"Corporate retreats, educational trips, families"
+Solo,19,Fastest growing,"Millennials, Gen Z, transformative adventures"
+,,,
+By Age Group ,,,
+Age_Group,Market_Share_%,CAGR_%,Booking_Behaviour
+Millennials (1981-1996),49,16,"Highest spend, values-driven, social media"
+Gen Z (1997-2012),22,18,"Fastest growing, climate-focused, digital native"
+Gen X (1965-1980),18,12,"Experience-focused, higher budget"
+Baby Boomers (1946-1964),11,9,"Nature-based, wildlife, slower pace"
+,,,
+ By Activity Type ,,,
+Activity_Type,Market_Share_%,Growth_%,Top_Destinations
+Land ecotourism,71,15,"National parks, hiking, safaris, wildlife"
+Coastal/marine,45,16,"Reef diving, island tourism, marine wildlife"
+Adventure tourism,20,18,"Trekking, climbing, rafting"
+Voluntourism,8,14,"Community projects, conservation"
+Cultural ecotourism,6,12,"Heritage, indigenous communities"
+,,,
+By Booking Mode ,,,
+Booking_Mode,Market_Share_%,Cancellation_Risk,Preference_Trend
+Direct booking,61,Low,Growing — guests want to verify sustainability directly
+Travel agent,25,Medium,Declining but still strong for complex trips
+OTA platform,14,High,Growing for price comparison

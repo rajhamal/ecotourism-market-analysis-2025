@@ -1,0 +1,23 @@
+Metric,Percentage,Year,Source,Category,Gap_vs_Intention
+Want sustainable travel,84,2025,Booking.com,Intention,Want sustainable travel — Intention
+Actually book sustainable,33,2025,Booking.com,Action,Actually book sustainable — Action
+Plan to travel sustainably next year,75,2024,Survey,Intention,Plan to travel sustainably next year — Intention
+Want to reduce energy consumption,57,2024,Survey,Intention,Want to reduce energy consumption — Intention
+Look for sustainable accommodation,53,2024,Booking.com,Intention,Look for sustainable accommodation — Intention
+Actively search sustainability info before booking,29,2024,Survey,Action,Actively search sustainability info before booking — Action
+Consider themselves sustainability-knowledgeable,43,2024,Survey,Awareness,N/A
+Tired of hearing about climate change,28,2024,Survey,Fatigue,N/A
+Sustainability important but not booking priority,45,2024,Survey,Barrier,N/A
+Interested in sustainability certification details,52,2024,Survey,Awareness,N/A
+Interested in certification details (2023),69,2023,Survey,Awareness,N/A
+Will search less-crowded alternatives,67,2025,Booking.com,Behaviour,N/A
+Americans stayed in sustainable accommodation,9.2,2024,Survey,Action,Americans stayed in sustainable accommodation — Action
+Americans plan sustainable stay next 12 months,17.2,2024,Survey,Intention,Americans plan sustainable stay next 12 months — Intention
+,,,,,
+KEY GAP CALCULATIONS,,,,,
+Intention (want sustainable),84%,,,,
+Action (actually book sustainable),33%,,,,
+Intention-Action Gap,51,,,,
+Gap as multiple (intention vs action),250%,,,,
+Certification interest drop 2023-2024,17,,,,
+% decline in certification interest,24.6,,,,
