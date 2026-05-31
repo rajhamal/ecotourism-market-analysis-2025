@@ -17,7 +17,7 @@ is actually 39% CHEAPER than conventional options.
 ---
 
 ## Live Dashboard
-[Ecotourism Market Analysis — Tableau Public](YOUR LINK)
+[Ecotourism Market Analysis — Tableau Public]((https://public.tableau.com/app/profile/raj.hamal/viz/EcotourismMarketGrowthTravelerBehaviour2025/EcotourismMarketAnalysisGreenPathConsultancy2025)
 
 ---
 
